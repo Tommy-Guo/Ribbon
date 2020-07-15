@@ -26,7 +26,7 @@ You'll then need to run the following sql script to setup the database & table t
      `title` text NOT NULL,
      `content` longblob NOT NULL,
      PRIMARY KEY (`id`)
-    ) ENGINE=MyISAM AUTO_INCREMENT=7 DEFAULT CHARSET=utf8
+    ) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8
 
 following that, you'll need to edit the included `mySQL_details.php` file with your credentials
 
